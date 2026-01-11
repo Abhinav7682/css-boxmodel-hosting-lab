@@ -46,3 +46,22 @@ h1{
     outline: 3px solid blue;
     outline-offset: 6px;
 }
+.box-wrapper {
+            margin: 40px;
+            background-color: #ffe4e1;
+            display: inline-block;
+        }
+
+.box {
+            width: 320px;
+            padding: 20px; 
+            border: 5px solid #333; 
+            background-color: #d0ebff;
+            box-sizing: border-box;
+        }
+
+.content {
+            background-color: #aaf5b4;
+            padding: 20px;
+            text-align: center;
+        }
